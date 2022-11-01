@@ -1,4 +1,4 @@
-package bot;
+package cinema;
 
 import java.util.Scanner;
 
